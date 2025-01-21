@@ -50,15 +50,5 @@
 
 -   Before running , ensure you have `Node.js` installed. This project has been tested with Node versions [12.X](https://nodejs.org/en/blog/release/v12.22.1/), [14.X](https://nodejs.org/en/blog/release/v14.17.5/), [16.X](https://nodejs.org/en/blog/release/v16.15.1/) and [18.x](https://nodejs.org/en/download).
 
-```bash
-$ git clone https://github.com/manasCodes13/cosmos-talk.git
-$ cd mirotalk
-$ cp .env.template .env
-$ npm install
-$ npm start
-```
-
--   Open [http://localhost:3000](http://localhost:3000) in your browser.
-
 </details>
 
